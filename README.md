@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm M. Moaz Tehseen</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate software engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmoaztehseen&label=Profile%20views&color=0e75b6&style=flat" alt="mmoaztehseen" /> </p>
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **React-Native,Spring-Boot**
 
 - 📫 How to reach me: **mmoaztehseen@gmail.com**
 <p align="left">
