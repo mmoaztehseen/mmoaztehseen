@@ -1,14 +1,16 @@
 <h1 align="center">💫 Hi, I am Muhammad Moaz Tehseen</h1>
-<p align="center">Pixel Picasso: Crafting Code Canvases</p>
+<h3 align="center">Pixel Picasso: Crafting Code Canvases</h3>
 
-🔭 I’m currently exploring Spring Boot Reactive Programming  
-🌱 I’m currently learning React, Drools Rule Engine, DevOps  
-👯 I’m looking to collaborate on Open source projects, innovative tech ideas  
-🤝 I’m looking for help with Advanced Java Concepts  
-💬 Ask me about java, linux, cricket  
-📫 How to reach me mmoaztehseen@gmail.com  
-💼 Check out my portfolio: Portfolio (coming soon)  
-⚡ Fun fact: I can solve a Rubik's Cube in under 2 minutes!
+<p align="center">
+  <strong>🔭 I’m currently exploring Spring Boot Reactive Programming</strong><br>
+  <strong>🌱 I’m currently learning React, Drools Rule Engine, DevOps</strong><br>
+  <strong>👯 I’m looking to collaborate on Open source projects, innovative tech ideas</strong><br>
+  <strong>🤝 I’m looking for help with Advanced Java Concepts</strong><br>
+  <strong>💬 Ask me about java, linux, cricket</strong><br>
+  <strong>📫 How to reach me mmoaztehseen@gmail.com</strong><br>
+  <strong>💼 Check out my portfolio: Portfolio (coming soon)</strong><br>
+  <strong>⚡ Fun fact: I can solve a Rubik's Cube in under 2 minutes!</strong>
+</p>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -40,5 +42,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mmoaztehseen&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
