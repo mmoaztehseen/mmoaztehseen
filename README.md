@@ -1,5 +1,5 @@
-# 💫 Hi, I am Muhammad Moaz Tehseen:
-# Pixel Picasso: Crafting Code Canvases
+# 💫 Hi, I am Muhammad Moaz Tehseen
+<p>Pixel Picasso: Crafting Code Canvases</p>
 🔭 I’m currently exploring Spring Boot Reactive Programming<br><br>🌱 I’m currently learning React, Drools Rule Engine, DevOps<br><br>👯 I’m looking to collaborate on Open source projects, innovative tech ideas<br><br>🤝 I’m looking for help with Advanced Java Concepts<br><br>💬 Ask me about java, linux, cricket<br><br>📫 How to reach me mmoaztehseen@gmail.com<br><br>💼 Check out my portfolio: Portfolio (coming soon)<br><br>⚡ Fun fact I can solve a Rubik's Cube in under 2 minutes!
  
 
