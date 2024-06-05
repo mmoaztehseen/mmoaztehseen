@@ -1,7 +1,7 @@
 <h1 align="center">💫 Hi, I am Muhammad Moaz Tehseen</h1>
-<h3 align="center">Pixel Picasso: Crafting Code Canvases</h3>
+<h3 align="center" id="pixel-picasso">Pixel Picasso: Crafting Code Canvases</h3>
 
-<p>
+<p align="center">
   <strong>🔭 I’m currently exploring Spring Boot Reactive Programming</strong><br>
   <strong>🌱 I’m currently learning React, Drools Rule Engine, DevOps</strong><br>
   <strong>👯 I’m looking to collaborate on Open source projects, innovative tech ideas</strong><br>
@@ -42,3 +42,15 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mmoaztehseen&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- CSS for the fade-out effect -->
+<style>
+  #pixel-picasso {
+    animation: fadeOut 5s forwards;
+  }
+
+  @keyframes fadeOut {
+    0% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+</style>
