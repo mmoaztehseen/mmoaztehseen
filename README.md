@@ -42,15 +42,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mmoaztehseen&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- CSS for the fade-out effect -->
-<style>
-  #pixel-picasso {
-    animation: fadeOut 5s forwards;
-  }
-
-  @keyframes fadeOut {
-    0% { opacity: 1; }
-    100% { opacity: 0; }
-  }
-</style>
