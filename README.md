@@ -8,7 +8,7 @@
   <strong>🤝 I’m looking for help with Advanced Java Concepts</strong><br>
   <strong>💬 Ask me about java, linux, cricket</strong><br>
   <strong>📫 How to reach me mmoaztehseen@gmail.com</strong><br>
-  <strong>💼 Check out my portfolio: <a href='https://muhammadmoaztehseen.netlify.app/'>Click here to visit</a></strong><br>
+  <strong>💼 Check out my portfolio: <a href='https://muhammadmoaztehseen.netlify.app/'>Portfolio</a></strong><br>
   <strong>⚡ Fun fact: I can solve a Rubik's Cube in under 2 minutes!</strong>
 </p>
 
